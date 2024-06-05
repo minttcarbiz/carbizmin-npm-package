@@ -1,5 +1,5 @@
 const helloFromCarbiz = () => {
-    return "Hello From Carbiz";
+    return "Hello From Carbiz Min";
 }
 
 export default helloFromCarbiz;
